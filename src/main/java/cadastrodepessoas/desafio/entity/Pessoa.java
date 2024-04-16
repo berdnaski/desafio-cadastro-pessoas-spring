@@ -6,11 +6,14 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import javax.inject.Named;
+
 @Entity
 @Table(name = "pessoa")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Named
 public class Pessoa {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
