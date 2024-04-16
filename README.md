@@ -23,3 +23,15 @@
     </ul>
   </ul>
 </div>
+
+<div>
+  <h1>Como compilar o projeto?</h1>
+  <ul>
+      <li>Clone o repositório ou extraia a pasta:</li>
+      ![Imagens de auxílio](https://prnt.sc/2NYxmQF9jOQ1 | https://prnt.sc/dtpV3E3MelFN)
+      <li>Inicie o MySQL no docker com o comando:</li>
+      docker-compose up: https://prnt.sc/pDJKaEB0CZ50
+      <li>Atualize as dependencias maven do pom.xml</li>
+      https://prnt.sc/UBu11r7piYlm
+    </ul>
+  </ul>
