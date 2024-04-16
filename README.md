@@ -5,8 +5,7 @@
     <img alignm="center" alt="spring" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img alignm="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java3&logoColor=white" style="margin-left: 2rem;">
     <img alignm="center" alt="Git" src="https://img.shields.io/badge/Git-0F0006?style=for-the-badge&logo=git&logoColor=white" style="margin-left: 2rem;">
-    <img alignm="center" alt="Git" src="https://img.shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=git&logoColor=white" style="margin-left: 2rem;">
-    <img alignm="center" alt="Git" src="https://img.shields.io/badge/dockerstyle=for-the-badge&logo=git&logoColor=white" style="margin-left: 2rem;">
+    <img alignm="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=git&logoColor=white" style="margin-left: 2rem;">
 </div>
 <h1>Funcionalidades</h1>
 <p>
